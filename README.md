@@ -2,7 +2,7 @@
 
 <p align='right'> <strong>SY2106318 孙旭东 </strong></p>
 
-**详细技术报告见**[SY2106318-深度学习和自然语言处理第四次作业](https://github.com/NSun-S/buaa_nlp_project3/raw/main/SY2106318-深度学习和自然语言处理第四次作业.pdf)
+**详细技术报告见**[SY2106318-深度学习和自然语言处理第四次作业](https://github.com/NSun-S/buaa_nlp_project4/raw/main/SY2106318-深度学习和自然语言处理第四次作业.pdf)
 
 ### 程序简介
 
